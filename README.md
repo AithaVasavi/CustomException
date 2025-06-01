@@ -6,10 +6,9 @@ This Java-based project demonstrates how to implement **custom exception handlin
 
 ## 📌 Features
 
-- Custom exception class: `MyException`
-- 
-- Demonstrates best practices for exception handling
-- Easily extensible for use in larger Java applications
+- Custom exception class: `MyException`  
+- Demonstrates best practices for exception handling  
+- Easily extensible for use in larger Java applications  
 
 ---
 
@@ -24,9 +23,8 @@ This Java-based project demonstrates how to implement **custom exception handlin
 ## 📁 Project Structure
 
 ├── src/
-│ ├── MyException.java # Custom generic exception class
-│ 
-├── README.md # Project documentation
+│ ├── MyException.java # Custom generic exception class  
+├── README.md # Project documentation  
 
 
 ---
