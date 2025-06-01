@@ -22,7 +22,7 @@ This Java-based project demonstrates how to implement **custom exception handlin
 
 ## 📁 Project Structure
 
-├── src/
+├── src/  
 │ ├── MyException.java # Custom generic exception class  
 ├── README.md # Project documentation  
 
@@ -50,7 +50,9 @@ public class MyException extends Exception {
     public MyException(String message) {
         super(message);
     }
-}
+}  
+
+
 🧪**How to Run**
 1.Clone this repository:
       git clone https://github.com/your-username/your-repo-name.git
